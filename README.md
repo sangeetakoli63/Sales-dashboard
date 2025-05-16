@@ -34,15 +34,14 @@ An interactive Power BI dashboard designed to track and analyze online sales dat
 ---
 
 ## 📁 Files Included
-- `online-sales-dashboard.pbix`: Main Power BI file
-- `sales-data.xlsx`: Sample dataset
-- `dashboard-screenshot.png`: Preview image (optional)
+- `online-sales-dashboard.pbix'
+- `sales-data.xlsx`
+  
 
 ---
 
-## 📷 Preview
-*(Add your screenshot below after uploading)*  
-![Dashboard Preview](dashboard-screenshot.png)
+## 📷 Preview 
+![Dashboard Preview](Sales-Dashboard.png.png)
 
 ---
 
