@@ -34,8 +34,8 @@ An interactive Power BI dashboard designed to track and analyze online sales dat
 ---
 
 ## 📁 Files Included
-- `online-sales-dashboard.pbix'
-- `sales-data.xlsx`
+- SALES DASHBOARD.pbix
+
   
 
 ---
